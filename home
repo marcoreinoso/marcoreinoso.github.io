@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html> 
+
+<head>
+
+<title> Box </title> 
+
+<link rel="stylesheet" type="text/css" href="style.css"> 
+
+</head>
+
+<body>
+
+<header>
+Home Page
+</header> 
+
+<nav>
+
+Welcome to my first website. This is for a project for a class in my school called GenTech. It's a computer 
+coding class fro beginners. The real purpose of this purose is just to talk about my carrer of choice 
+which is neuroscince or neurology. I've decided to go to this branch becuae the brain has always fascinated me
+since the end of elementary school.
+
+</nav>
+
+<aside class="aside">
+
+<a href="main.html">Main</a> 
+
+ <img src="brain.jpg" width="250" height="200"/><a>
+ 
+</aside>
+
+ <aside class="asideleft">
+       
+   <a href="final.html">Final Page</a> 
+  <img src="imgres-1.jpg" width="250" height="200"/><a>
+  
+  </aside>
+  
+<main>
+Click Main for topic 
+<a href="https://www.quora.com/Hackers-Is-it-possible-to-hack-into-a-school-system-and-change-your-grades"><li>Hacking computer system good or bad?</li></a> 
+ 
+ <img src="hack-813290_640.jpg" width="300" height="200"/><a>
+
+</main>
+ 
+ <footer>
+  
+ <ul>
+ <li>Created by: Blimber Garcia</li>
+ <li>Published: 2017</li>
+ <li>Contact Info:Blimbergarcia@gmail.com</li>
+ </ul>
+  
+ </footer>
+        
+ </body>
+        
+ </html>
