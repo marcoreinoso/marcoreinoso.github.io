@@ -1,0 +1,70 @@
+ 
+ 
+<!DOCTYPE html>
+  
+<html>
+ 
+<head>
+ 
+<title> Box </title>
+ 
+<link rel="stylesheet" type="text/css" href="style.css">
+ 
+</head>
+ 
+<body>
+ 
+<header>
+
+Final Page
+ 
+</header>
+ 
+<nav>
+ 
+</nav>
+<aside class="aside">
+ 
+  <a href="main.html">Main Page</a>
+ 
+ <img src="imgres-1.jpg" width="250" height="200"/><a>
+ 
+</aside>
+  
+<aside class="asideleft">
+
+      <a href="home.html">Home Page</a>
+      
+   <img src="images-1.jpg" width="250" height="200"/><a>
+   
+ </aside>
+
+<main>
+  
+</main>
+
+<footer>
+ 
+ 
+ <ul>
+ 
+ 
+<li></li>
+ 
+ 
+<li></li>
+ 
+ 
+<li></li>
+ 
+ 
+</ul>
+ 
+ 
+</footer>
+ 
+</body>
+ 
+ 
+     
+</html>
