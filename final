@@ -1,70 +1,52 @@
- 
- 
 <!DOCTYPE html>
-  
-<html>
- 
+
+<html> 
+
 <head>
- 
-<title> Website </title>
- 
-<link rel="stylesheet" type="text/css" href="style.css">
- 
+
+<title> Website </title> 
+
+<link rel="stylesheet" type="text/css" href="cascading.css"> 
+
 </head>
- 
+
 <body>
- 
+
 <header>
-
 Final Page
- 
-</header>
- 
+</header> 
+
 <nav>
- 
+I am 15 and currently a freshman in Covina High School. I have been part of the Frosh football team that went undefeated and par of the Track team. I am looking forward to doing hose sports again whenever I can. My favorite subject right now is biology, beacuse it's interesting how much the body does just to survive.
 </nav>
+
 <aside class="aside">
- 
-  <a href="main.html">Main Page</a>
- 
- <img src="imgres-1.jpg" width="250" height="200"/><a>
- 
-</aside>
-  
-<aside class="asideleft">
-
-      <a href="home.html">Home Page</a>
-      
-   <img src="images-1.jpg" width="250" height="200"/><a>
    
- </aside>
+   <a href="main.html">Main Page</a> 
+  <img src="345277_450x450.jpg" width="250" height="200"/>
+   
+</aside>
 
-<main>
+ <aside class="asideleft">
+      
+       <a href="website.html">Home Page</a> 
+       
+    <img src="Can-you-get-addicted-to-hallucinogens1.jpg" width="250" height="200"/><a>
+    
+  </aside class="asideleft">
   
-</main>
+<main>
+Aa passion of mine is a ery recent one; it was my second year of doing track and I was used to just doing sprints, until one of my coaches told me to try hurdles. At first, I thought h was a little carszy for thinking that I could actually do it. For the first two weeks, I wou;d avoid hurdles, but my coach would always tell me to practice. Now I have ralized that if i wasn't pushed to do hurdles,I wouldn't have 
+</main> 
 
-<footer>
- 
- 
- <ul>
- 
- 
-<li>Created by: Marco Antonio Reinoso</li>
- 
- 
-<li>Published: June 2017</li>
- 
- 
-<li>Contact for answers: reinmar0218@gmail.com</li>
- 
- 
-</ul>
- 
- 
-</footer>
- 
-</body>
- 
- 
-     
-</html>
+ <footer> 
+  <ul>
+ <li>Created by: Marco Antonio Reinoso</li>
+ <li>Published: June 2017</li>
+ <li>Contact for answers:reinmar0218@gmail.com</li>
+ </ul>
+ </footer>
+        
+ </body>
+        
+ </html>
