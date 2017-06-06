@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html> 
+
+<head>
+
+<title> Website </title> 
+
+<link rel="stylesheet" type="text/css" href="style.css"> 
+
+</head>
+
+<body>
+
+<header>
+Main Page
+</header> 
+
+<nav>
+Neuroscience in my opinion is one of the important careers. If you think about it, the brain is the only thing to name itself, which is pretty funny to me. It's kinda crazy when you think about it (to me it is).
+</nav>
+
+<aside class="aside">
+   
+   <a href="final.html">Final Page</a> 
+ 
+   <img src="345277_450x450.jpg" width="250" height="200"/><a>
+</aside>
+
+ <aside class="asideleft">
+    <a href="website.html">Home Page</a>
+   <img src="Can-you-get-addicted-to-hallucinogens1.jpg" height="200" width="250"> 
+ </aside>
+  
+<main>
+ Neuroscience is the study of the brain and it's functions. Some things that are researched in this branch of science is how we perceive the world, like emotion, thought, judgement, etc. What I really want to dive into is the whole thought process and actions of the brain.
+</main> 
+
+<footer>
+ <ul>
+<li>Created by: Marco Antonio Reinoso</li>
+ <li>Published: June 2017</li>
+ <li>Contact for answers:reinmar0218@gmail.com</li>
+ </ul>
+ </footer>
+        
+ </body>
+        
+ </html>
